@@ -1,0 +1,16 @@
+Project Definition
+- Create a text-based (command-line) program that takes any string input and converts it into Morse Code
+
+MVP
+- An command-line based program that converts the users string input and outputs it as Morse Code
+
+Nice-to-haves:
+- GUI interface
+- GUI copy to clipboard function
+- Decoder - convert from Morse Code into string
+
+User-Story
+- As a user I want to be able to enter text into the program and have it converted and shown to me as Morse Code
+
+Workflow management
+- Trello board
