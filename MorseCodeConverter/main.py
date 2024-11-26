@@ -1,4 +1,4 @@
-from msdict import Morse_Code_Bank
+from mcdict import Morse_Code_Bank
 
 
 def convert():
